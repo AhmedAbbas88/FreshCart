@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FreshCart/static/css/main.97fabadf.css",
-    "main.js": "/FreshCart/static/js/main.a21535be.js",
+    "main.js": "/FreshCart/static/js/main.51534b66.js",
     "static/css/380.31d6cfe0.chunk.css": "/FreshCart/static/css/380.31d6cfe0.chunk.css",
     "static/js/380.0ad32d77.chunk.js": "/FreshCart/static/js/380.0ad32d77.chunk.js",
     "static/js/453.c9606d68.chunk.js": "/FreshCart/static/js/453.c9606d68.chunk.js",
@@ -25,12 +25,12 @@
     "static/media/slick.woff": "/FreshCart/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/FreshCart/index.html",
     "main.97fabadf.css.map": "/FreshCart/static/css/main.97fabadf.css.map",
-    "main.a21535be.js.map": "/FreshCart/static/js/main.a21535be.js.map",
+    "main.51534b66.js.map": "/FreshCart/static/js/main.51534b66.js.map",
     "380.0ad32d77.chunk.js.map": "/FreshCart/static/js/380.0ad32d77.chunk.js.map",
     "453.c9606d68.chunk.js.map": "/FreshCart/static/js/453.c9606d68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97fabadf.css",
-    "static/js/main.a21535be.js"
+    "static/js/main.51534b66.js"
   ]
 }
