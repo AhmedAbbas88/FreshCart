@@ -45,6 +45,7 @@ let routers = createBrowserRouter([
     {path: 'brands' , element : <Suspense fallback={<div className='vh-100 bg-dark text-light'><i class="fa-solid fa-spinner"></i></div>}><ProtectedRoute><Brands/></ProtectedRoute></Suspense>},
     {path: 'register' , element : <Register/>},
     {path: 'login' , element : <Login/>},
+    {path: 'FreshCart' , element : <Login/>},
     {path: '*' , element : <NotFound/>},
   ]
  }
